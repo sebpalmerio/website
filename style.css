@@ -1,0 +1,66 @@
+head, body {
+    background-image: url(fractal.jpg);
+}
+
+.container {
+  margin-left: 200px;
+  padding: 1px 16px;
+  height: auto !important;
+  height: 100%;
+}
+
+#headshot {
+  height: 243px;
+  width: 195px;
+}
+
+h1, h2, h3, h4 {
+  margin-right: 100px;
+}
+
+span, p, a {
+    color: white;
+    font-family: 'Roboto';
+    display: inline;
+    line-height: 45px;
+    font-size: 22px;
+    font-weight: lighter;
+    text-decoration: none;
+}
+
+#pop {
+    font-size: 30px;
+    opacity: 1;
+    line-height: 80px;
+}
+
+.socials {
+  margin: 0;
+  padding: 0;
+  left: 0;
+  top: 0;
+  position: fixed;
+}
+
+.socials a {
+  display: block;
+  text-align: center;
+  padding: 70px;
+  color: white;
+  font-size: 50px;
+  opacity: 0.6;
+}
+
+.socials a:hover {
+  opacity: 1;
+}
+
+.wrapper {
+  min-height: 100%;
+  height: auto !important;
+  height: 100%;
+  margin: 0 auto -10px;
+}
+.footer, .push {
+  height: 10px;
+}
