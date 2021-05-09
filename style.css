@@ -4,6 +4,7 @@ head, body {
 
 .container {
   margin-left: 200px;
+  margin-right: 100px;
   padding: 1px 16px;
   height: auto !important;
   height: 100%;
@@ -12,10 +13,6 @@ head, body {
 #headshot {
   height: 243px;
   width: 195px;
-}
-
-h1, h2, h3, h4 {
-  margin-right: 100px;
 }
 
 span, p, a {
